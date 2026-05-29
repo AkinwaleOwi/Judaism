@@ -21,6 +21,9 @@ judaism-study/
 ├── prayers/
 │
 ├── core-narratives/
+│
+├── kosher cuisine/
+
 
 │
 ├── hebrew/
