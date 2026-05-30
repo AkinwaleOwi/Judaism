@@ -1,4 +1,4 @@
-Torah & Jewish Knowledge Repository
+##Torah & Jewish Knowledge Repository
 
 A structured personal study system for deepening understanding of Judaism, Torah, prayer, Jewish history, and religious practice.
 
