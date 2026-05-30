@@ -4,8 +4,8 @@ A structured personal study system for deepening understanding of Judaism, Torah
 
 # This repository is designed to help build:
 
-a. Consistent Torah study habits
-b. Strong knowledge foundations
+- Consistent Torah study habits
+- Strong knowledge foundations
 c. Familiarity with prayers and liturgy
 d. Understanding of Jewish narratives and history
 e. Practical religious discipline
