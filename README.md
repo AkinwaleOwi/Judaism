@@ -40,6 +40,6 @@ judaism-study/
 
 Planned Future Sections
 
-Potential additions:
+**Potential additions:**
 
 0. Holidays
