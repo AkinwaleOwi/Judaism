@@ -2,7 +2,7 @@
 
 A structured personal study system for deepening understanding of Judaism, Torah, prayer, Jewish history, and religious practice.
 
-This repository is designed to help build:
+##This repository is designed to help build:
 
 a. Consistent Torah study habits
 b. Strong knowledge foundations
@@ -12,7 +12,7 @@ e. Practical religious discipline
 f. Long-term spiritual growth
 
 
-📚 Repository Structure
+##📚 Repository Structure
 
 judaism-study/
 │
